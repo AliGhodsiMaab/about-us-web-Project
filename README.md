@@ -55,3 +55,5 @@ If you want to extend the project, add translations, or turn this into a multi-p
 - Add real forms or replace `prompt()` with proper UI and backend.
 
 Thank you for checking out Bilito (بیلیتو) — simple, clean, and mobile-friendly.
+
+![11](https://github.com/user-attachments/assets/eccae960-3357-4f91-a564-f490bc445889)
