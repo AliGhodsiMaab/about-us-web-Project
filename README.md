@@ -49,4 +49,9 @@ The site is primarily right-to-left (Persian) and includes a header, an about se
 
 ---
 
-## Quick file map
+If you want to extend the project, add translations, or turn this into a multi-page site, you can:
+- Edit `index.html` for content changes.
+- Edit `css.css` for layout and responsive tweaks.
+- Add real forms or replace `prompt()` with proper UI and backend.
+
+Thank you for checking out Bilito (بیلیتو) — simple, clean, and mobile-friendly.
